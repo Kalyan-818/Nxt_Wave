@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.nav-bar {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-bottom: 2px solid #eceef2;
+}
+
+.brand-logo {
+  width: 100px;
+}
+
+.nav-links-container {
+  margin-top: 6px;
+}
+
+.nav-item {
+  font-family: "Roboto";
+  font-size: 14px;
+  color: #334155;
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+.blog-content-container {
+  padding: 20px;
+}
+
+.section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 22px;
+  font-weight: 600;
+  margin: 0px;
+  margin-top: 15px;
+}
+
+.section-content {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 14px;
+  margin: 0px;
+  margin-top: 15px;
+}
+
+.ai-image {
+  width: 50vw;
+  margin-top: 20px;
+  border-radius: 8px;
+}
+
+.ads-container {
+  padding: 10px;
+}
+
+.ad {
+  width: 150px;
+  margin-top: 20px;
+}
+
+.applications-list {
+  margin: 0px;
+  margin-top: 5px;
+}
+
+.list-item {
+  font-family: "Roboto";
+  color: #183b56;
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+.footer {
+  background-color: #f1f8ff;
+  padding: 10px;
+  margin-top: 15px;
+}
+
+.footer-brand-logo {
+  width: 100px;
+  margin-top: 10px;
+}
+
+.all-rights-text {
+  font-family: "Roboto";
+  color: #000000;
+  font-size: 12px;
+  margin: 0px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
